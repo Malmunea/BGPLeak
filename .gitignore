@@ -115,3 +115,4 @@ dmypy.json
 
 # My ignores
 output.txt
+database.json
